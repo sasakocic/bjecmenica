@@ -1,0 +1,9 @@
+{
+  "name": "yahuah/reasonforhope",
+  "description": "Reason for hope",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "slim/slim-skeleton": "3.1.2"
+  }
+}
